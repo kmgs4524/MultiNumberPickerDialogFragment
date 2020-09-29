@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppTheme.NumberPicker" parent="AppTheme">
+        <item name="android:editTextColor">@color/royal_purple</item>
+        <item name="colorControlNormal">@color/royal_purple</item>
+    </style>
+
 </resources>
