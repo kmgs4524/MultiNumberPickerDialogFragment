@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiNumberPickerDialogFragment</string>
+    <string name="dialogDetermine">Determine</string>
+    <string name="dialogCancel">Cancel</string>
+</resources>
